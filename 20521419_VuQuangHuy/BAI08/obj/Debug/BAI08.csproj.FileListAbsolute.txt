@@ -1,0 +1,7 @@
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI08\bin\Debug\BAI08.exe.config
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI08\bin\Debug\BAI08.exe
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI08\bin\Debug\BAI08.pdb
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI08\obj\Debug\BAI08.csproj.AssemblyReference.cache
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI08\obj\Debug\BAI08.csproj.CoreCompileInputs.cache
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI08\obj\Debug\BAI08.exe
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI08\obj\Debug\BAI08.pdb

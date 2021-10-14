@@ -1,0 +1,6 @@
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI06\bin\Debug\BAI06.exe.config
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI06\bin\Debug\BAI06.exe
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI06\bin\Debug\BAI06.pdb
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI06\obj\Debug\BAI06.csproj.CoreCompileInputs.cache
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI06\obj\Debug\BAI06.exe
+D:\Lập trình C# Winform\20521419_VuQuangHuy\BAI06\obj\Debug\BAI06.pdb
